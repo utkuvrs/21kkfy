@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @21kkfy
-- 👀 I’m interested in WEB3, NFTs, Smart Contracts, ReactJS, Solidity
+- 👀 I’m interested in WEB3, Solidity, Rust, Flutter
 - 🌱 I’m currently learning Computer Architecture, JavaScript
 - 💞️ I’m looking to collaborate on -
 - 📫 How to reach me 21kkfy#8274 & 21kkfy@gmail.com
